@@ -5,7 +5,7 @@ import {router } from 'expo-router'
 
 const FalYukleme = () => {
   const handleGoToFalSonucu = () => {
-    router.push('/FalKonusu'); // Expo Router ile yönlendirme
+    router.push("/(tabs)/FalKonusu");
   };
   return (
     <View style={style.container}>

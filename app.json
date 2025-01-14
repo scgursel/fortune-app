@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "fonts": {
+      "IslandMoments": "./assets/fonts/IslandMoments.ttf"
+
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
   }
 }
