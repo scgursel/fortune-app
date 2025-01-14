@@ -17,7 +17,7 @@ const StartScreen = () => {
 
           <TouchableOpacity
             className="w-full bg-[#1e1b4b] py-4 rounded-full items-center"
-            onPress={() => router.push('/(tabs)/FalYukleme')}
+            onPress={() => router.push('/Login')}
           >
             <Text className="text-white text-xl font-['IslandMoments']">
               Devam Et

@@ -33,6 +33,7 @@ export default function TabLayout() {
       <Tabs.Screen name='FalKonusu' options={{
         headerTitle: "Fal Konusu"
       }} />
+   
     </Tabs>
 
   );
