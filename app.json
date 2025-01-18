@@ -40,10 +40,14 @@
     },
     "fonts": {
       "IslandMoments": "./assets/fonts/IslandMoments.ttf"
-
     },
+    "permissions": [
+      "CAMERA",
+      "MEDIA_LIBRARY"
+    ],
     "assetBundlePatterns": [
       "**/*"
     ]
+    
   }
 }
